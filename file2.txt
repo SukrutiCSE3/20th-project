@@ -1,0 +1,6 @@
+abcdef
+ancde
+abcd
+abc
+ab
+a
